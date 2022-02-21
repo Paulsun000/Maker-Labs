@@ -1,0 +1,28 @@
+
+#logout {
+	text-align: right;
+	padding-right: 50px;
+	color: white;
+}
+
+#greeting {
+	text-align: right;
+	padding-right: 50px;
+	padding-top: 30px;
+	color: white;
+}
+
+#loglink {
+	color: white;
+}
+
+#head {
+	background: url(images/head1.jpg) no-repeat;
+	background-size: cover;
+	height: 100%;
+	overflow: hidden;
+}
+
+#nav {
+	padding-right: 30px;
+}
