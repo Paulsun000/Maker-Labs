@@ -1,0 +1,62 @@
+body {
+	background: url(images/bck.jpg) no-repeat center center fixed;
+	background-size: cover;
+	height: 100%;
+	overflow: hidden;
+	font-size: 35px;
+	color: white;
+}
+
+.main-form {
+    width: 700px;
+    margin: auto;
+	text-align: left;
+}
+
+#error {
+	position: center;
+	color: #ce0000;
+	text-align: center;
+}
+
+footer {
+	padding-top: 5px;
+	padding-left: 20px;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	font-size: 20px;
+	color: #dbdbdb;
+	text-align: left;
+	background-color: black;
+}
+
+.titleText{
+	font-size: 40px;
+	width: 100%;
+	position: center;
+}
+
+.navbar-brand {
+	font-size: 35px;
+	width: 60px; 
+	height: 60px;
+}
+
+.collapse {
+	padding-top: 10px;
+	font-size: 20px;
+}
+
+.titleText {
+	text-align: center;
+	font-size: 60px;
+}
+.responsive {
+	padding-top: 30px;
+	padding-left: 35px;
+	width: 150px;
+	height: 150px;
+	position: center;
+}
